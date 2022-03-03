@@ -1,7 +1,9 @@
 # Mil-cryptor
 encryption and dcryption with Base 64 | Hex | Rot13
 
-What you need before installation:
+What you need before installation :
+
+sudo apt install git
 
 sudo apt install python3
 
