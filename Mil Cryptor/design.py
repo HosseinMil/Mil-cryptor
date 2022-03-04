@@ -52,9 +52,6 @@ def decoder_menu():
   print(bold+color.WHITE+"[3]"+color.LIGHTYELLOW_EX+" Rot 13")
   print(color.CYAN+"*********************")
   sleep(0.1)
-  print(bold+color.WHITE+"[4]"+color.LIGHTYELLOW_EX+" Decoder")
-  print(color.CYAN+"*********************")
-  sleep(0.1)
   print(bold+color.WHITE+"[0]"+color.LIGHTYELLOW_EX+" back")
   print(color.CYAN+"*********************"+endbold)
 
